@@ -3,6 +3,10 @@ Line following robot with code and schematics
 
 <img src="Bakar.jpg" width="60%">
 
+### Showcase Video
+
+https://www.instagram.com/reel/DA5B4Cnvay5
+
 ### Components
 1. 1 Arduino Uno
 2. 2 18650 Batteries (or any combination of batteries but make sure it's more than 6 volts)
